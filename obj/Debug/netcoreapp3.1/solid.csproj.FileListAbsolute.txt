@@ -1,0 +1,11 @@
+C:\Users\Matheus Martins\source\repos\solid\solid\bin\Debug\netcoreapp3.1\solid.exe
+C:\Users\Matheus Martins\source\repos\solid\solid\bin\Debug\netcoreapp3.1\solid.deps.json
+C:\Users\Matheus Martins\source\repos\solid\solid\bin\Debug\netcoreapp3.1\solid.runtimeconfig.json
+C:\Users\Matheus Martins\source\repos\solid\solid\bin\Debug\netcoreapp3.1\solid.runtimeconfig.dev.json
+C:\Users\Matheus Martins\source\repos\solid\solid\bin\Debug\netcoreapp3.1\solid.dll
+C:\Users\Matheus Martins\source\repos\solid\solid\bin\Debug\netcoreapp3.1\solid.pdb
+C:\Users\Matheus Martins\source\repos\solid\solid\obj\Debug\netcoreapp3.1\solid.csprojAssemblyReference.cache
+C:\Users\Matheus Martins\source\repos\solid\solid\obj\Debug\netcoreapp3.1\solid.AssemblyInfoInputs.cache
+C:\Users\Matheus Martins\source\repos\solid\solid\obj\Debug\netcoreapp3.1\solid.AssemblyInfo.cs
+C:\Users\Matheus Martins\source\repos\solid\solid\obj\Debug\netcoreapp3.1\solid.dll
+C:\Users\Matheus Martins\source\repos\solid\solid\obj\Debug\netcoreapp3.1\solid.pdb
